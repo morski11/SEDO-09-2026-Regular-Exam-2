@@ -20,6 +20,7 @@ namespace Homies.Tests
         private HomiesDbContext _dbContext;
         private EventController _controller;
 
+        // test comment
         [SetUp]
         public void Setup()
         {
